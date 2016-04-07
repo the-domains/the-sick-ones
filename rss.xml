@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Sick Ones ]]></title>
+        <description><![CDATA[The Sick Ones ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 16:51:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm the sick one]]></title>
+            <description><![CDATA[<article><h1>I'm the sick one</h1><p>Im a sick dog</p></article>]]></description>
+            <link>undefinedim-the-sick-one/index.html</link>
+            <guid isPermaLink="false">b16c2e35-3a2e-485e-8714-f8de357452f0</guid>
+            <pubDate>Thu, 07 Apr 2016 16:51:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
